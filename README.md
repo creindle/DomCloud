@@ -3,10 +3,10 @@ DomCloud
 
 Build a program to recursively traverse the DOM and create a word cloud of most common attributes and elements to create a tag cloud.
 
-**index.html** contains sample html, you will be parsing this as your sample dom tree, and this is your main JavaScript launcher. Make sure to commit early, commit often.  
+**index.html** contains sample html, you will be parsing this as your sample dom tree, and this is your main JavaScript launcher. Make sure to commit early, commit often.
 
 ## Part 1
-  
+
 - Plan your execution on white board before forking and cloning.
 - Write a program that will recursively traverse the DOM and create a word list of the 20 most common attributes and elements
 - Print the results in #dom_cloud_container
@@ -15,10 +15,10 @@ Build a program to recursively traverse the DOM and create a word cloud of most 
 **HINT:** You will need to use recursion to solve this challenge!
 
 ## Part 2
-  
+
 - Create a bookmarklet that will parse the currently opened page, and generate a tag cloud on a new layer in the current window. You will need to research on your own HOW to create a bookmarklet.
 
-**REFERENCE:** 
+**REFERENCE:**
 
 http://code.tutsplus.com/tutorials/create-bookmarklets-the-right-way--net-18154
 
@@ -29,7 +29,7 @@ http://code.tutsplus.com/tutorials/create-bookmarklets-the-right-way--net-18154
 * Top 20 Expected Results
 * Total rendered elements showing word list are the count and height/width you expect after being rendered on page
 
-**REFERENCE:** 
+**REFERENCE:**
 
 http://www.codechewing.com/library/javascript-dom-browser-tests-mocha-chai/
 
